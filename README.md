@@ -26,9 +26,8 @@ Download dataset from
 ```
 https://www.kaggle.com/datasets/madibokishev/doges-77-breeds
 ```
-and put under folder "dataset"
 
-### 2. unzip the dataset Remove Background
+### 2. Unzip the dataset Remove the Background
 run:
 ```bash
 python unzip_dataset.py
