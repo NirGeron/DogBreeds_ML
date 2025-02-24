@@ -27,10 +27,7 @@ Download dataset from
 https://www.kaggle.com/datasets/madibokishev/doges-77-breeds
 ```
 ### 2. Train a Model
-To train a specific model, run:
-```bash
-python train.py --model svm  # Options: 'svm', 'cnn', 'softmax'
-```
+Choose a specific model to train
 
 ### 3. Evaluate Model
 Run evaluation on test data:
