@@ -50,5 +50,5 @@ python predict.py --image path/to/image.jpg --model svm
 
 
 ## Contributors
-- **Nir Geron** - [GitHub](https://github.com/NirGeron)
-- **Dor Shir** - [GitHub](https://github.com/Dorshir)
+- [Dor Shir](https://github.com/Dorshir)
+- [Nir Geron](https://github.com/NirGeron)
