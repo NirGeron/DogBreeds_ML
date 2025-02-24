@@ -35,19 +35,12 @@ python remove_bg.py
 ```
 
 ### 2. Train a Model
-Choose a specific model to train
+Choose a model to train
 
-### 3. Evaluate Model
-Run evaluation on test data:
-```bash
-python evaluate.py --model svm
-```
 
-### 4. Predict a Dog Breed
+### 3. Predict a Dog Breed
 Use a trained model to predict a breed from an image:
-```bash
-python predict.py --image path/to/image.jpg --model svm
-```
+
 
 ## Results
 - Model performance is evaluated using **accuracy, precision, recall, and F1-score**.
