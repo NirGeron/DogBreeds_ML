@@ -67,9 +67,7 @@ accuracy = accuracy_score(y_test, y_pred)
 current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 details = f"Test Accuracy: {accuracy:.4f} image_size: {image_size} PCA: {num_pca_components}"
 output = classification_report(y_test, y_pred, target_names=label_encoder.classes_)
-print(current_time)
-print(details)
-print(output)
+print(current_time, details, output)
 
 with open(output_file, 'a') as f:
     f.write(f"Report generated at: {current_time}\n for {dataset_path} \n {details}\n {output} \n\n")
