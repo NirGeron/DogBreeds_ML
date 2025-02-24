@@ -1,0 +1,15 @@
+
+Report generated at: 2025-02-17 13:43:53
+ Test Accuracy: 0.1000 Loss: 2.3025996685028076 
+ epochs: 100 batch size: 32 image size: (128, 128)
+
+Report generated at: 2025-02-19 12:45:11
+Test Accuracy: 0.1868 F1 Score: 0.1277 Epochs: 100 Batch Size: 32 Image Size: (64, 64)
+
+Report generated at: 2025-02-19 17:16:08
+Test Accuracy: 0.1000 F1 Score: 0.0182 Epochs: 100 Batch Size: 32 Image Size: (256, 256)
+
+Report generated at: 2025-02-24 11:28:37
+Test Accuracy: 0.1268 for ./removed_bg_dataset 
+ F1 Score: 0.0714 Epochs: 100 Batch Size: 32 Image Size: (256, 256)
+
