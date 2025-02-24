@@ -26,6 +26,15 @@ Download dataset from
 ```
 https://www.kaggle.com/datasets/madibokishev/doges-77-breeds
 ```
+and put under folder "dataset"
+
+### 2. unzip the dataset Remove Background
+run:
+```bash
+python unzip_dataset.py
+python remove_bg.py
+```
+
 ### 2. Train a Model
 Choose a specific model to train
 
