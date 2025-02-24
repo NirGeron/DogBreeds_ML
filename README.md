@@ -1,6 +1,7 @@
-# DogBreeds_ML
-
 # Dog Breeds Classification using Machine Learning
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9aa6ca8c-ffd5-42f4-b765-33dc5839729d"align="right">
+</p>
 
 ## Overview
 This project focuses on classifying dog breeds using machine-learning techniques. It utilizes the **Doges 10 Breeds** dataset from Kaggle and implements multiple classification models, including:
@@ -22,14 +23,6 @@ The goal is to compare the performance of these models in accurately classifying
 Ensure you have Python installed (preferably 3.8+), then install the required dependencies:
 ```bash
 pip install -r requirements.txt
-```
-If you are using ONNX for inference, install:
-```bash
-pip install onnxruntime
-```
-For GPU support:
-```bash
-pip install onnxruntime-gpu
 ```
 
 ## Usage
