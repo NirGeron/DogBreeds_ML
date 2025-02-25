@@ -17,7 +17,7 @@ The goal is to compare the performance of these models in accurately classifying
 ## Dataset
 - **Source:** [Kaggle - Doges 77 Breeds](https://www.kaggle.com/datasets/madibokishev/doges-77-breeds)
 - The dataset contains labeled images of 77 different dog breeds.
-- Preprocessing includes resizing images, normalization, and data augmentation.
+- Preprocessing includes resizing images and normalization.
 
 
 ## Usage
