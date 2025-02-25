@@ -13,3 +13,31 @@ Report generated at: 2025-02-24 11:28:37
 Test Accuracy: 0.1268 for ./removed_bg_dataset 
  F1 Score: 0.0714 Epochs: 100 Batch Size: 32 Image Size: (256, 256)
 
+Report generated at: 2025-02-24 12:02:19
+Test Accuracy: 0.1672 for ./removed_bg_dataset 
+ F1 Score: 0.1209 Epochs: 100 Batch Size: 32 Image Size: (128, 128)
+
+Report generated at: 2025-02-24 12:09:36
+Test Accuracy: 0.1427, F1 Score: 0.0728, Epochs: 100, Batch Size: 32, Image Size: (128, 128)
+
+Report generated at: 2025-02-25 07:22:31
+ for ./removed_bg_dataset 
+ Test Accuracy: 0.3157 image_size: (128, 128) PCA: 150
+                     precision    recall  f1-score   support
+
+            beagle       0.21      0.22      0.21       600
+             boxer       0.25      0.23      0.24       600
+         chihuahua       0.23      0.17      0.20       600
+            collie       0.82      0.95      0.88       600
+          doberman       0.35      0.57      0.43       600
+  golden_retriever       0.25      0.29      0.27       600
+labrador_retriever       0.14      0.12      0.13       600
+        pomeranian       0.25      0.34      0.29       600
+            poodle       0.21      0.16      0.18       600
+            shitzu       0.24      0.10      0.14       600
+
+          accuracy                           0.32      6000
+         macro avg       0.30      0.32      0.30      6000
+      weighted avg       0.30      0.32      0.30      6000
+ 
+

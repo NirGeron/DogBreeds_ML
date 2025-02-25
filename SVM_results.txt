@@ -141,3 +141,24 @@ labrador_retriever       0.22      0.09      0.12       600
       weighted avg       0.27      0.28      0.27      6000
  
 
+Report generated at: 2025-02-24 12:19:10
+ for ./removed_bg_dataset 
+ Test Accuracy: 0.2833 image_size: (128, 128) PCA: 150
+                     precision    recall  f1-score   support
+
+            beagle       0.20      0.21      0.21       600
+             boxer       0.30      0.27      0.28       600
+         chihuahua       0.31      0.20      0.25       600
+            collie       0.25      0.27      0.26       600
+          doberman       0.36      0.63      0.46       600
+  golden_retriever       0.28      0.38      0.32       600
+labrador_retriever       0.22      0.08      0.12       600
+        pomeranian       0.32      0.36      0.34       600
+            poodle       0.27      0.17      0.21       600
+            shitzu       0.25      0.26      0.25       600
+
+          accuracy                           0.28      6000
+         macro avg       0.27      0.28      0.27      6000
+      weighted avg       0.27      0.28      0.27      6000
+ 
+
