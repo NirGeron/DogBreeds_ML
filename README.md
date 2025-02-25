@@ -7,10 +7,10 @@
 This project focuses on classifying dog breeds using machine-learning techniques. It utilizes the **Doges 10 Breeds** dataset from Kaggle and implements multiple classification models, including:
 
 ## Tools and Models
+- **Adaboost**
 - **Support Vector Machine (SVM)**
 - **Softmax Regression**
 - **Convolutional Neural Network (CNN)**
-- **Boosting models**
 
 The goal is to compare the performance of these models in accurately classifying dog breeds based on image data.
 
