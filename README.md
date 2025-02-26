@@ -4,7 +4,7 @@
 </p>
 
 ## Overview
-This project focuses on classifying dog breeds using machine-learning techniques. It utilizes the **Doges 10 Breeds** dataset from Kaggle and implements multiple classification models, including:
+This project focuses on classifying dog breeds using machine-learning techniques. It utilizes the **Doges 77 Breeds** dataset from Kaggle and implements multiple classification models, including:
 
 ## Tools and Models
 - **Adaboost**
